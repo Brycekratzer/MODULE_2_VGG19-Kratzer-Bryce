@@ -1,0 +1,2 @@
+test_loss,test_acc,test_precision,test_recall,test_f1,latency,throughput,inital_prune,max_prune_perc,increment_by,rate_of_increase
+17.247344679694052,86.36,0.8571114046675473,0.8601414052143173,0.8586237318041465,0.07188493346404284,13.669688388735516,0.1,0.7,0.15,3

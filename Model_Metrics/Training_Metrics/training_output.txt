@@ -1,0 +1,96 @@
+Epoch 1/10
+----------
+  0%|          | 0/1563 [00:00<?, ?it/s]
+100%|██████████| 1563/1563 [28:23<00:00,  1.09s/it]
+100%|██████████| 157/157 [01:10<00:00,  2.23it/s]
+Train Loss: 0.4924 Acc: 83.36%
+Train Precision: 0.8336 Recall: 0.8336 F1: 0.8336
+Val Loss: 0.3136 Acc: 89.36%
+Val Precision: 0.8936 Recall: 0.8936 F1: 0.8936
+New best validation accuracy: 89.36%
+
+Epoch 2/10
+----------
+100%|██████████| 1563/1563 [28:20<00:00,  1.09s/it]
+100%|██████████| 157/157 [01:08<00:00,  2.30it/s]
+Train Loss: 0.2615 Acc: 91.24%
+Train Precision: 0.9124 Recall: 0.9124 F1: 0.9124
+Val Loss: 0.2916 Acc: 90.38%
+Val Precision: 0.9038 Recall: 0.9038 F1: 0.9038
+New best validation accuracy: 90.38%
+
+Epoch 3/10
+----------
+100%|██████████| 1563/1563 [28:23<00:00,  1.09s/it]
+100%|██████████| 157/157 [01:07<00:00,  2.31it/s]
+Train Loss: 0.1911 Acc: 93.54%
+Train Precision: 0.9354 Recall: 0.9354 F1: 0.9354
+Val Loss: 0.3227 Acc: 89.58%
+Val Precision: 0.8958 Recall: 0.8958 F1: 0.8958
+
+Epoch 4/10
+----------
+100%|██████████| 1563/1563 [28:22<00:00,  1.09s/it]
+100%|██████████| 157/157 [01:07<00:00,  2.32it/s]
+Train Loss: 0.1476 Acc: 95.09%
+Train Precision: 0.9509 Recall: 0.9509 F1: 0.9509
+Val Loss: 0.3270 Acc: 90.36%
+Val Precision: 0.9036 Recall: 0.9036 F1: 0.9036
+
+Epoch 5/10
+----------
+100%|██████████| 1563/1563 [28:17<00:00,  1.09s/it]
+100%|██████████| 157/157 [01:08<00:00,  2.30it/s]
+Train Loss: 0.1153 Acc: 96.21%
+Train Precision: 0.9621 Recall: 0.9621 F1: 0.9621
+Val Loss: 0.3020 Acc: 91.00%
+Val Precision: 0.9100 Recall: 0.9100 F1: 0.9100
+New best validation accuracy: 91.00%
+
+Epoch 6/10
+----------
+100%|██████████| 1563/1563 [28:19<00:00,  1.09s/it]
+100%|██████████| 157/157 [01:07<00:00,  2.32it/s]
+Train Loss: 0.0984 Acc: 96.84%
+Train Precision: 0.9684 Recall: 0.9684 F1: 0.9684
+Val Loss: 0.3337 Acc: 90.72%
+Val Precision: 0.9072 Recall: 0.9072 F1: 0.9072
+
+Epoch 7/10
+----------
+100%|██████████| 1563/1563 [28:16<00:00,  1.09s/it]
+100%|██████████| 157/157 [01:07<00:00,  2.32it/s]
+Train Loss: 0.0848 Acc: 97.25%
+Train Precision: 0.9725 Recall: 0.9725 F1: 0.9725
+Val Loss: 0.2841 Acc: 92.08%
+Val Precision: 0.9208 Recall: 0.9208 F1: 0.9208
+New best validation accuracy: 92.08%
+
+Epoch 8/10
+----------
+100%|██████████| 1563/1563 [28:18<00:00,  1.09s/it]
+100%|██████████| 157/157 [01:08<00:00,  2.31it/s]
+Train Loss: 0.0770 Acc: 97.52%
+Train Precision: 0.9752 Recall: 0.9752 F1: 0.9752
+Val Loss: 0.3301 Acc: 91.38%
+Val Precision: 0.9138 Recall: 0.9138 F1: 0.9138
+
+Epoch 9/10
+----------
+100%|██████████| 1563/1563 [28:17<00:00,  1.09s/it]
+100%|██████████| 157/157 [01:07<00:00,  2.32it/s]
+Train Loss: 0.0695 Acc: 97.77%
+Train Precision: 0.9777 Recall: 0.9777 F1: 0.9777
+Val Loss: 0.4218 Acc: 89.64%
+Val Precision: 0.8964 Recall: 0.8964 F1: 0.8964
+
+Epoch 10/10
+----------
+100%|██████████| 1563/1563 [28:14<00:00,  1.08s/it]
+100%|██████████| 157/157 [01:07<00:00,  2.32it/s]
+Train Loss: 0.0657 Acc: 97.90%
+Train Precision: 0.9790 Recall: 0.9790 F1: 0.9790
+Val Loss: 0.3883 Acc: 90.92%
+Val Precision: 0.9092 Recall: 0.9092 F1: 0.9092
+
+Training completed - Best validation accuracy: 92.08%
