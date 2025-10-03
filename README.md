@@ -10,7 +10,7 @@ The model uses a cross-entropy loss function with a 0.0001 learning rate. The mo
 
 ```bash
 MODULE_1_VGG19-KRATZER-BRYCE/
-├── MobileNetV2_NoteBooks/                  # Notebooks for training/evaluating
+├── VGG19_NoteBooks/                  # Notebooks for training/evaluating
 │   ├── VGG19.ipynb             
 │   └── Visuals.ipynb
 ├── Model_Metrics/                          # Outputs from final test for both models
